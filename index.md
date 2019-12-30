@@ -2,8 +2,6 @@
 ### Welcome
 
 
-### Markdown
-
 ```markdown
 
 # Hello World
