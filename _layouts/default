@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@maikle26 
-5
-99120pages-themes/primer
- Code Issues 0 Pull requests 1 Actions Security Insights
-primer/_layouts/default.html
-@benbalter benbalter use anchor JS via CDN with SRI
-0dd5532 on Apr 9, 2018
-@benbalter@EricFromCanada@shawnbot@jldec
-38 lines (35 sloc)  1.58 KB
-  
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -54,15 +36,3 @@ primer/_layouts/default.html
     {% endif %}
   </body>
 </html>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
