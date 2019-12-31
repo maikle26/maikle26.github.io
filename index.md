@@ -1,4 +1,3 @@
-## Mike Hong
 ### Welcome
 
 
